@@ -1,2 +1,5 @@
 this is java file
 new line added
+
+oops concept
+collection framework
